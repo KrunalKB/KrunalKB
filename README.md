@@ -1,8 +1,8 @@
 <p><img align="center" src="https://github.com/KrunalKB/KrunalKB/blob/main/KB.GIF" width="500" height="300"/></p>
-<h1 align="left"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Krunal </h1>
+<h1 align="left"> Hello  Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 
-- <img src="https://user-images.githubusercontent.com/84042512/133250672-40da1df0-13e0-4fde-a62b-02dc30e62e0e.png" width="20px" height="20px"> Student at MEFGI.
+- <img src="https://user-images.githubusercontent.com/84042512/133250672-40da1df0-13e0-4fde-a62b-02dc30e62e0e.png" width="20px" height="20px"> I am a Student at MEFGI.
 - 🌱 I’m currently learning **Web Development and Python in ML.**
 
 - 📫 How to reach me <a href="mailto:krunalbhimajiyani11@gmail.com"> Here</a>

@@ -1,4 +1,5 @@
-- Hi 👋, I’m Krunal
+<p><img align="center" src="https://github.com/KrunalKB/KrunalKB/blob/main/KB.GIF" width="500" height="300"/></p>
+- Hello 👋,
 
 
 <!---

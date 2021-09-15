@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krunal bhimajiyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krunal-bhimajiyani-067943215" height="30" width="40" /></a>
-<a href="https://fb.com/krunal bhimajiyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krunal.bhimajiyani.92" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krunal-bhimajiyani-067943215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krunal-bhimajiyani-067943215" height="30" width="40" /></a>
+<a href="https://fb.com/krunal.bhimajiyani.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krunal.bhimajiyani.92" height="30" width="40" /></a>
 <a href="https://instagram.com/krunal__bhimajiyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krunal__bhimajiyani" height="30" width="40" /></a>
 </p>
 
